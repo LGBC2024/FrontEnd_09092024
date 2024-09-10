@@ -7,5 +7,17 @@
 4. git commit -m "Mi primer commit": Pasa cambios de staging area a repository.
 5. git log: te muestra todos los commit
 
+# BRANCHS
+
+1. Main(Production): El ambiente para los clientes.
+2. Desarrollo (DeV): Nuestro ambiente para trabajar.
+3. QA (Calidad de código): Se prueba los desarrollos.
+4. UAT (Pre Producción): Antes de mandar a producción.
+
+Integration (QA es uno mismo ) ==> Hasta el día jueves (X) (Metodología Scrum)
+1 (Desarrollo) ==> 2(QA) ==> 3(UAT) ==> 4 (PRODUCTION)
+
+* Cada empresa tiene sus propios lineamientos
+
 
 
